@@ -1,7 +1,0 @@
-Constructed from TIGER/Line data downloaded from:
-
-`https://www.census.gov/cgi-bin/geo/shapefiles/national-files`
-
-Clipped and reprojected in QGIS from:
-
-`/home/arribasd/AAA/LargeData/CensusBureau/fe_2007_us_state00.zip`
