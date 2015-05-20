@@ -13,7 +13,7 @@ need [Jekyll](http://jekyllrb.com/) to run it.
 
 ## Code and data
 
-The repository contains also a secondary branch (`code_data`) with only the code and data
+The repository contains also a secondary branch ([`code_data`](https://github.com/darribas/belts/tree/code_data)) with only the code and data
 required to reproduce the results. The code is in an [IPython
 notebook](http://ipython.org/notebook.html) and information on dependencies 
 are available on the notebook. Data and code are also part of the `gh-pages`
