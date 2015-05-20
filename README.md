@@ -5,7 +5,7 @@ Web resource for the EP-A paper "'From manufacturing belt, to rust belt, to coll
 
 The resource is available as an online website at:
 
-* http:darribas.org/belts
+* [http:darribas.org/belts](http:darribas.org/belts)
 
 The entire site is hosted on this repository as well so, if you are inclined,
 you can clone it or fork it and run it locally from your machine. You will
