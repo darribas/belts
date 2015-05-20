@@ -47,7 +47,7 @@ in the paper. You can access its contents in the following two options:
 
 **Code and data** can be downloaded separately from he Github repository. Either
 via the standard `git` workflow (`clone` or `fork`) or as a compressed file
-([link](placeholder), placeholder until published).
+([link](https://github.com/darribas/belts/archive/code_data.zip)).
 
 # License
 
