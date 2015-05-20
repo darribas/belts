@@ -26,8 +26,8 @@ datasets or new questions.
 
 # Paper
 
-* **Published** version in *Environment and Planning A* ([html](#placeholder),
-  placeholder until published).
+* **Published** version in *Environment and Planning A*
+  ([html](http://www.envplan.com/abstract.cgi?id=a140387p)).
 * **Open Access** version archived at the University of Birmingham
   ([html](#placeholder), placeholder until published. Subject to a 12-month
   embargo by the publisher). This is a “postprint”
@@ -42,8 +42,8 @@ This **website** is hosted in an open repository that contains both the website
 itself as well as the code and data required to reproduce figures and results
 in the paper. You can access its contents in the following two options:
 
-* Online version ([html](placeholder), placeholder until published).
-* Github repository ([link](placeholder), placeholder until published)
+* Online version ([html](http://darribas.org/belts)).
+* Github repository ([link](https://github.com/darribas/belts)).
 
 **Code and data** can be downloaded separately from he Github repository. Either
 via the standard `git` workflow (`clone` or `fork`) or as a compressed file
