@@ -31,4 +31,7 @@ manufacturing belt, to rust belt, to college country</i> - A Visual Narrative of
 xmlns:cc="http://creativecommons.org/ns#" href="http://darribas.org"
 property="cc:attributionName" rel="cc:attributionURL">Daniel Arribas-Bel</a> and <a
 xmlns:cc="http://creativecommons.org/ns#" href="https://sites.google.com/site/michielgerritse/"
+property="cc:attributionName" rel="cc:attributionURL">Michiel Gerritse</a> is licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+
 
