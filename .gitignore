@@ -1,0 +1,4 @@
+_site/*
+*/_site/*
+*/figs_sizeInt/*
+*.pyc
